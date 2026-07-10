@@ -1,4 +1,4 @@
-# AI Admin Dashboard
+# MintFlow
 
 An intermediate-to-advanced full-stack Admin Dashboard built with **React.js**, **Supabase**, and **Tailwind CSS**. The application provides user authentication, role-based access control, project management, task management with Kanban boards, analytics, and report generation with export capabilities.
 
