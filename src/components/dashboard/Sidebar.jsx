@@ -110,7 +110,7 @@ export default function Sidebar({ collapsed = false }) {
                 className="overflow-hidden"
               >
                 <p className="text-[13px] font-semibold text-gray-900 whitespace-nowrap">
-                  WorkForce
+                  MintFlow
                 </p>
 
                 <p className="text-[11px] text-gray-500 whitespace-nowrap">
