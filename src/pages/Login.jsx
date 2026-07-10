@@ -55,7 +55,7 @@ export default function Login() {
           >
             <Cpu className="w-5 h-5 text-white" />
           </motion.div>
-          <p className="text-xl font-semibold text-teal-900 tracking-wide">
+          <p className="text-xl font-semibold text-black tracking-wide">
             MintFlow
           </p>
         </motion.div>
