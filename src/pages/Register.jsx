@@ -85,7 +85,7 @@ export default function Register() {
           <div className="w-11 h-11 rounded-xl bg-gradient-to-br from-teal-400 to-teal-600 flex items-center justify-center mb-3 shadow-teal-200">
             <Sparkles className="w-5 h-5 text-white" />
           </div>
-          <p className="text-xl font-semibold text-teal-900 tracking-wide">
+          <p className="text-xl font-semibold text-black tracking-wide">
             MintFlow
           </p>
         </div>
@@ -97,7 +97,7 @@ export default function Register() {
             <p className="text-[13px] text-gray-500 mt-1">
               Get started with your dashboard
             </p>
-          </div>
+          </div><input type="button" value="" />
 
           {error && (
             <div className="mb-4 bg-red-50 text-red-600 text-[12.5px] p-3 rounded-lg border border-red-100">
@@ -210,7 +210,7 @@ export default function Register() {
         <p className="text-[13px] text-gray-500 text-center mt-5">
           Already have an account?{" "}
           <Link
-            to="/login"
+            to="/"
             className="text-teal-500 hover:text-teal-600 font-medium"
           >
             Sign in
